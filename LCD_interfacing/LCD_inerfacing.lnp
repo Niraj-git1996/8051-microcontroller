@@ -1,0 +1,8 @@
+"io_write.obj",
+"delay.obj",
+"lcd_driver.obj",
+"cgram.obj",
+"lcd_4bit.obj",
+"main.obj" 
+TO "LCD_inerfacing" 
+RAMSIZE(256) 

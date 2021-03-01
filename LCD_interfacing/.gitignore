@@ -1,0 +1,10 @@
+*.LST
+*.OBJ
+*.PWI
+*.DBK
+*.Inp
+*.M51
+*.plg
+*.Admin
+*.bak
+*.uvopt
